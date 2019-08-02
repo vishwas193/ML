@@ -41,3 +41,12 @@ plt.xticks(())
 plt.yticks(())
 
 plt.show()
+
+
+########Response##########
+"""
+Regression Coefficients [938.23786125]
+Intercept 152.91886182616167
+MSE 2548.0723987259694
+Variance Score (1 is perfect prediction): 0.47257544798227147
+"""
